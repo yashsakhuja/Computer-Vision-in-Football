@@ -30,3 +30,6 @@ Learn about each phase of this project through the following blog posts:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Player-Detection-in-Football.git
 ```
+
+Note: In order to upload the Large Files (>100MB) to Github I have used GitLFS
+Here's a quick video on how to do it: https://youtu.be/4Ln6iRh_LTo?feature=shared
