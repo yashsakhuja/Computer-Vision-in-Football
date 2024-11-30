@@ -10,7 +10,7 @@ This repository focuses on detecting players in football using YOLO models, inte
 - **Tracking:** Integrating ByteTrack to track players over time.
 - **Computer Vision:** Utilizing OpenCV for image processing and visualization.
 
-## Blog Series 📖
+## Introductory Blog Series 📖
 Learn about each phase of this project through the following blog posts:
 
 1. **Getting Started with Object Detection using YOLO**  
