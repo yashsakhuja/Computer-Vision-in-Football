@@ -27,6 +27,7 @@ Learn about each phase of this project through the following blog posts:
 **Clone the repository:**
 ```bash
 git clone https://github.com/YOUR_USERNAME/Player-Detection-in-Football.git
+```
 
 ## Additional Resources
 Explore additional datasets, models, and tools in the [Resources Folder](https://drive.google.com/drive/folders/1Fn97WEVR-SZRzb2XkjLccXhOTeYoEcsB?usp=sharing).
