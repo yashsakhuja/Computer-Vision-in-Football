@@ -1,9 +1,8 @@
 # Player Detection in Football
 
-![image](https://github.com/user-attachments/assets/5eaa0aa0-94ce-42ce-b25f-3d0b58377f7d)
-
-
 This repository focuses on detecting players in football using YOLO models, integrating ByteTrack for tracking, and utilizing OpenCV for processing. The project is split into three key phases, documented in the blog series linked below.
+
+![image](https://github.com/user-attachments/assets/5eaa0aa0-94ce-42ce-b25f-3d0b58377f7d)
 
 ## Project Overview
 - **Object Detection:** Using YOLO models for detecting players in football footage.
